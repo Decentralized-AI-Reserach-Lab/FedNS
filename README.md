@@ -43,12 +43,11 @@ Federated learning (FL) has emerged as a prominent method for collaboratively tr
 
 <div align="center">
 <img src="img/overview.png" width="95%">
-
 <h3>📚 Three Pillars of FedNS</h3>
+</div>
 - **🔍 Noise Identification:** FedNS identifies noisy clients in the first training round (one-shot).
 - **🛡️ Resilient Aggregation:** A resilient strategy that minimizes the impact of noisy clients, ensuring robust model performance.
 - **🔒 Data Confidentiality:** Shares only scalar gradient norms to keep data confidential.
-</div>
 
 ## 🔧 Requirements
 ###  Environment 
