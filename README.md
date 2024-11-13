@@ -2,7 +2,7 @@
 <div align="center">
 
 <div>
-    <a href='https://www.linkedin.com/in/haoyuan-li-cs9654/' target='_blank'>Haoyuan</a><sup>1</sup>&emsp;
+    <a href='https://www.linkedin.com/in/haoyuan-li-cs9654/' target='_blank'>Haoyuan Li</a><sup>1</sup>&emsp;
     <a href='https://mathias-funk.com/' target='_blank'>Mathias Funk</a><sup>1</sup>&emsp;
     <a href='https://nezihemervegurel.github.io/' target='_blank'>Nezihe Merve Gürel</a><sup>2</sup>&emsp;
     <a href='https://aqibsaeed.github.io/' target='_blank'>Aaqib Saeed</a><sup>1</sup>&emsp;
@@ -42,6 +42,7 @@
 Federated learning (FL) has emerged as a prominent method for collaboratively training machine learning models using local data from edge devices, all while keeping data decentralized. However, accounting for the quality of data contributed by local clients remains a critical challenge in FL, as local data are often susceptible to corruption by various forms of noise and perturbations, which compromise the aggregation process and lead to a subpar global model. In this work, we focus on addressing the problem of noisy data in the input space, an under-explored area compared to the label noise. We propose a comprehensive assessment of client input in the gradient space, inspired by the distinct disparity observed between the density of gradient norm distributions of models trained on noisy and clean input data. Based on this observation, we introduce a straightforward yet effective approach to identify clients with low-quality data at the initial stage of FL. Furthermore, we propose a noise-aware FL aggregation method, namely **Fed**erated **N**oise-**S**ifting (**FedNS**), which can be used as a plug-in approach in conjunction with widely used FL strategies. Our extensive evaluation on diverse benchmark datasets under different federated settings demonstrates the efficacy of **FedNS**. Our method effortlessly integrates with existing FL strategies, enhancing the global model’s performance by up to 13.68% in IID and 15.85% in non-IID settings when learning from noisy decentralized data.
 
 <div align="center">
+<h3>⚓ Overview ⚓</h3>
 <img src="img/overview.png" width="95%">
 <h3>📚 Three Pillars of FedNS</h3>
 </div>
