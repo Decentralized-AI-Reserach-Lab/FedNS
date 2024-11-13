@@ -35,7 +35,7 @@
 
 [10/2024] Accepted to IEEE BigData 2024
 
-[09/2023] [arXiv](http://www.arxiv.org/abs/2409.02189) paper has been released.
+[09/2024] [arXiv](http://www.arxiv.org/abs/2409.02189) paper has been released.
 
 
 ## 📝 Abstract
