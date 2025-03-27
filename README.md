@@ -83,10 +83,12 @@ If you have any questions, please contact me via [email](h.y.li@tue.nl) or open 
 The code repository for "[Collaboratively Learning Federated Models from Noisy Decentralized Data](https://arxiv.org/abs/2409.02189)" (IEEE BigData 2024) in PyTorch.  If you use any content of this repo for your work, please cite the following bib entry: 
 
 ```bibtex
-@article{li2024collaboratively,
+@inproceedings{li2024collaboratively,
   title={Collaboratively Learning Federated Models from Noisy Decentralized Data},
   author={Li, Haoyuan and Funk, Mathias and G{\"u}rel, Nezihe Merve and Saeed, Aaqib},
-  journal={arXiv preprint arXiv:2409.02189},
-  year={2024}
+  booktitle={2024 IEEE International Conference on Big Data (BigData)},
+  pages={7879--7888},
+  year={2024},
+  organization={IEEE}
 }
 ```
